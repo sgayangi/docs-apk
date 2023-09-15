@@ -35,7 +35,7 @@ metadata:
 spec:
   protocol: https
   services:
-  - host: backend-service.namespace
+  - host: backend-service
     port: 443
   security:
   - type: Basic
